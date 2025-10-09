@@ -1,7 +1,7 @@
 # Finance Report :
 - **Project objective:**
 >1. Create Profit and Loss (P&L) reports by [*Fiscal Year*](https://github.com/A-Patil-2001/Financial-Analytics-Excel/blob/main/1.%20P%26L%20by%20Fiscal%20Year.pdf)
->2. Create Profit and Loss (P&L) reports by *Quarters*
+>2. Create Profit and Loss (P&L) reports by [*Quarters*](https://github.com/A-Patil-2001/Financial-Analytics-Excel/blob/main/2.%20P%26L%20by%20Fiscal%20Months(Quarter).pdf)
 - **Purpose of finance analytics:**
 - **Importance of analyzing Finance data:**
 - **Role of reports:**
