@@ -1,7 +1,7 @@
 # Finance Report :
 - **Project objective:**
->1. Create Profit and Loss (P&L) reports by Fiscal Year
->2. Create Profit and Loss (P&L) reports by Quarters
+>1. Create Profit and Loss (P&L) reports by *Fiscal Year*
+>2. Create Profit and Loss (P&L) reports by *Quarters*
 - **Purpose of finance analytics:**
 - **Importance of analyzing Finance data:**
 - **Role of reports:**
@@ -13,4 +13,5 @@
 >3. **Data Integration:** Skilled in enhancing data models by integrating supplementary tables for comprehensive reporting.
 >4. Ability to derive fiscal months, years and quarters.
 >5. Establishing data model relationships with Power Pivot.
+
 - **Soft Skills:**
