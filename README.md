@@ -2,7 +2,7 @@
 - **Project objective:**
 >1. Create Profit and Loss (P&L) reports by [*Fiscal Year*](https://github.com/A-Patil-2001/Financial-Analytics-Excel/blob/main/1.%20P%26L%20by%20Fiscal%20Year.pdf)
 >2. Create Profit and Loss (P&L) reports by [*Quarters*](https://github.com/A-Patil-2001/Financial-Analytics-Excel/blob/main/2.%20P%26L%20By%20Fiscal%20Months(Quarterly).pdf)
-- **Purpose of finance analytics:**
+- **Purpose of finance analytics:** Evaluating Growth Trends, to quantify the year-over-year growth in key financial metrics, identifying periods of significant expansion or contraction.
 - **Importance of analyzing Finance data:**
 - **Role of reports:**
 
