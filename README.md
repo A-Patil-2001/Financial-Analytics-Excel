@@ -4,7 +4,7 @@
 >2. Create Profit and Loss (P&L) reports by [*Quarters*](https://github.com/A-Patil-2001/Financial-Analytics-Excel/blob/main/2.%20P%26L%20By%20Fiscal%20Months(Quarterly).pdf)
 - **Purpose of finance analytics:** Evaluating Growth Trends, to quantify the year-over-year growth in key financial metrics, identifying periods of significant expansion or contraction.
 - **Importance of analyzing Finance data:** Financial analysis decodes fiscal performance to drive strategic capital allocation and risk mitigation. It is the cornerstone for ensuring solvency, optimizing resource efficiency, and maximizing sustainable enterprise value.
-- **Role of reports:**
+- **Role of reports:** Reports transform operational data into actionable intelligence, facilitating informed decision-making and strategic alignment. They provide a formalized framework for performance measurement, accountability, and organizational governance.
 
 ## Technical & Soft Skills:
 - **Technical:**
