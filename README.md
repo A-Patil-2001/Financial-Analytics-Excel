@@ -15,3 +15,8 @@
 >5. Establishing data model relationships with Power Pivot.
 
 - **Soft Skills:**
+>1. Optimization of report generation through meticulous fine-tuning.
+>2. Translating numbers into actionable insights.
+>3. Refined understanding of Sales & Finance Reports
+>4. Diagnosing root-cause issues to formulate data-driven solutions.
+>5. Developing a systematic approach to devising a report building plan.
