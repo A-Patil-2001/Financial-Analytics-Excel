@@ -15,6 +15,7 @@
 - [x] **Data Integration:** Skilled in enhancing data models by integrating supplementary tables for comprehensive reporting.
 - [x] Ability to derive fiscal months, years and quarters.
 - [x] Establishing data model relationships with Power Pivot.
+  
 
 - **Soft Skills:**
 - [x] Optimization of report generation through meticulous fine-tuning.
