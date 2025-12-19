@@ -16,6 +16,7 @@
 - [x] Ability to derive fiscal months, years and quarters.
 - [x] Establishing data model relationships with Power Pivot.
 
+
 **Soft Skills:**
 - [x] Optimization of report generation through meticulous fine-tuning.
 - [x] Translating numbers into actionable insights.
