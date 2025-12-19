@@ -8,15 +8,15 @@
 
 ## Technical & Soft Skills:
 - **Technical:**
->1. **ETL & Data Modeling:** Expertise in ETL methodology using Power Query to build a dynamic date table and establish robust data model relationships with Power Pivot.
->2. **DAX & Calculated Columns:** Proficient in using Data Analysis Expressions (DAX) to create calculated columns and measures for advanced analytics.
->3. **Data Integration:** Skilled in enhancing data models by integrating supplementary tables for comprehensive reporting.
->4. Ability to derive fiscal months, years and quarters.
->5. Establishing data model relationships with Power Pivot.
+- [x] **ETL & Data Modeling:** Expertise in ETL methodology using Power Query to build a dynamic date table and establish robust data model relationships with Power Pivot.
+- [x] **DAX & Calculated Columns:** Proficient in using Data Analysis Expressions (DAX) to create calculated columns and measures for advanced analytics.
+- [x] **Data Integration:** Skilled in enhancing data models by integrating supplementary tables for comprehensive reporting.
+- [x] Ability to derive fiscal months, years and quarters.
+- [x] Establishing data model relationships with Power Pivot.
 
 - **Soft Skills:**
->1. Optimization of report generation through meticulous fine-tuning.
->2. Translating numbers into actionable insights.
->3. Refined understanding of Sales & Finance Reports
->4. Diagnosing root-cause issues to formulate data-driven solutions.
->5. Developing a systematic approach to devising a report building plan.
+- [x] Optimization of report generation through meticulous fine-tuning.
+- [x] Translating numbers into actionable insights.
+- [x] Refined understanding of Sales & Finance Reports
+- [x] Diagnosing root-cause issues to formulate data-driven solutions.
+- [x] Developing a systematic approach to devising a report building plan.
