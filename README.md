@@ -9,6 +9,7 @@
 
 
 ## Technical & Soft Skills:
+
 ### Technical:
 
 - [x] **ETL & Data Modeling:** Expertise in ETL methodology using Power Query to build a dynamic date table and establish robust data model relationships with Power Pivot.
