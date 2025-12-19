@@ -1,4 +1,4 @@
-## Finance Report :
+# Finance Report :
 
 - **Project objective:**
 >1. Create Profit and Loss (P&L) reports by [*Fiscal Year*](https://github.com/A-Patil-2001/Financial-Analytics-Excel/blob/main/1.%20P%26L%20by%20Fiscal%20Year.pdf)
@@ -9,14 +9,14 @@
 
 ## Technical & Soft Skills:
 
-# Technical:
+### Technical:
 - [x] **ETL & Data Modeling:** Expertise in ETL methodology using Power Query to build a dynamic date table and establish robust data model relationships with Power Pivot.
 - [x] **DAX & Calculated Columns:** Proficient in using Data Analysis Expressions (DAX) to create calculated columns and measures for advanced analytics.
 - [x] **Data Integration:** Skilled in enhancing data models by integrating supplementary tables for comprehensive reporting.
 - [x] Ability to derive fiscal months, years and quarters.
 - [x] Establishing data model relationships with Power Pivot.
 
-# Soft Skills:
+### Soft Skills:
 - [x] Optimization of report generation through meticulous fine-tuning.
 - [x] Translating numbers into actionable insights.
 - [x] Refined understanding of Sales & Finance Reports
