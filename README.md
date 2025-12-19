@@ -7,9 +7,10 @@
 - **Importance of analyzing Finance data:** Financial analysis decodes fiscal performance to drive strategic capital allocation and risk mitigation. It is the cornerstone for ensuring solvency, optimizing resource efficiency, and maximizing sustainable enterprise value.
 - **Role of reports:** Reports transform operational data into actionable intelligence, facilitating informed decision-making and strategic alignment. They provide a formalized framework for performance measurement, accountability, and organizational governance.
 
-## Technical & Soft Skills:
 
+## Technical & Soft Skills:
 ### Technical:
+
 - [x] **ETL & Data Modeling:** Expertise in ETL methodology using Power Query to build a dynamic date table and establish robust data model relationships with Power Pivot.
 - [x] **DAX & Calculated Columns:** Proficient in using Data Analysis Expressions (DAX) to create calculated columns and measures for advanced analytics.
 - [x] **Data Integration:** Skilled in enhancing data models by integrating supplementary tables for comprehensive reporting.
@@ -17,6 +18,7 @@
 - [x] Establishing data model relationships with Power Pivot.
 
 ### Soft Skills:
+
 - [x] Optimization of report generation through meticulous fine-tuning.
 - [x] Translating numbers into actionable insights.
 - [x] Refined understanding of Sales & Finance Reports
